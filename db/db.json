@@ -1,0 +1,8 @@
+{
+    "users": [
+        {"id":1,"name":"Lajos Béla","email":"lb@lofasz.hu"},
+        {"id":2,"name":"Pista Géza","email":"pg@lofasz.hu"},
+        {"id":3,"name":"Evetke","email":"evetke@lofasz.hu"},
+        {"id":4,"name":"Tompika","email":"tompika@lofasz.hu"}
+    ]
+}
